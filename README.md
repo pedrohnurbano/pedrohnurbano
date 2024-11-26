@@ -23,3 +23,4 @@
 - 😄 Pronomes: ele/dele;
 - ⚡ Facto engraçado: Minha meta é tornar-se Juiz de Direito.
 
+![snake gif](https://github.com/pedrohnurbano/pedrohnurbano/blob/output/github-contribution-grid-snake.svg)
