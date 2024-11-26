@@ -1,5 +1,6 @@
 ## Olá, prazer! Chamo-me Pedro Henrique. 👋
-
+---
+<br>
 <div style="display: inline_block">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pedrohnurbano&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrohnurbano&layout=compact&langs_count=7&theme=dark"/>
@@ -12,14 +13,14 @@
   <img align="center" alt="pedro-sql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" />
 </div>
 <br>
-Here are some ideas to get you started:
+- **Um pouco sobre mim:**:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭 Estou atualmente cursando o 2º Ano do Ensino Médio;
+- 🌱 Estou atualmente a aprender IoT, Tkinter, MySQL, Python, JavaScript;
+- 👯 Estou a procurar colaborar em projetos que agregam conhecimento e inovação;
+- 🤔 Estou à procura de ajuda com tudo;
+- 💬 Perguntar-me sobre qualquer coisa;
+- 📫 Como me contactar: pedrohnurbano@gmail.com;
+- 😄 Pronomes: ele/dele;
+- ⚡ Facto engraçado: Minha meta é tornar-se Juiz de Direito.
 
