@@ -13,7 +13,7 @@
   <img align="center" alt="pedro-sql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" />
 </div>
 <br>
-- **Um pouco sobre mim:**:
+* Um pouco sobre mim:
 
 - 🔭 Estou atualmente cursando o 2º Ano do Ensino Médio;
 - 🌱 Estou atualmente a aprender IoT, Tkinter, MySQL, Python, JavaScript;
