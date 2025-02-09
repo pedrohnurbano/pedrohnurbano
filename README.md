@@ -14,9 +14,9 @@
 <br>
 → Um pouco sobre mim:
 
-- 🔭 Estou atualmente cursando o 2º Ano do Ensino Médio;
+- 🔭 Estou atualmente cursando o 3º Ano do Ensino Médio;
 - 🌱 Estou atualmente a aprender IoT, Tkinter, MySQL, Python, JavaScript;
-- 👯 Estou a procurar colaborar em projetos que agregam conhecimento e inovação;
+- 🚀 Estou a procurar colaborar em projetos que agregam conhecimento e inovação;
 - 🤔 Estou à procura de ajuda com tudo;
 - 💬 Perguntar-me sobre qualquer coisa;
 - 📫 Como me contactar: pedrohnurbano@gmail.com;
