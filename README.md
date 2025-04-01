@@ -1,12 +1,9 @@
 ## Prazer, chamo-me Pedro Henrique.
 
 Prezado(a)s,
-
 É com grande satisfação que me apresento.
 
 <br>
-
-### Estatísticas do GitHub
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pedrohnurbano&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
