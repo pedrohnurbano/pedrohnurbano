@@ -1,29 +1,44 @@
-## Olá, prazer! Chamo-me Pedro Henrique. 👋
+## Apresentação
+
+Prezado(a)s,
+
+É com grande satisfação que me apresento. Meu nome é Pedro Henrique.
+
 <br>
-<div style="display: inline_block">
+
+### Estatísticas do GitHub
+
+<div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pedrohnurbano&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrohnurbano&layout=compact&langs_count=7&theme=dark"/>
 </div>
-<div style="display: inline_block"><br>
-<img align="center" alt="pedro-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-<img align="center" alt="pedro-PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
-<img align="center" alt="pedro-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-<img align="center" alt="pedro-MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
-<img align="center" alt="pedro-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-<img align="center" alt="pedro-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-<img align="center" alt="pedro-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-<img align="center" alt="pedro-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-<img align="center" alt="pedro-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-<img align="center" alt="pedro-Cplusplus" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
-</div>
-<br>
-→ Um pouco sobre mim:
 
-- 🔭 Estou atualmente cursando o Curso Técnico Integrado em Informática na SATC - Associação Beneficente da Indústria Carbonífera de Santa Catarina;
-- 🌱 Estou atualmente a aprender React Native, React.js, Java, Unity3D, PHP;
-- 🚀 Estou a procurar colaborar em projetos que agregam conhecimento e inovação;
-- 🤔 Estou à procura de ajuda com tudo;
-- 💬 Perguntar-me sobre qualquer coisa;
-- 📫 Como me contactar: pedrohnurbano@gmail.com;
-- 😄 Pronomes: ele/dele;
-- ⚡ Facto engraçado: Minha meta é tornar-se Juiz de Direito.
+<br>
+
+### Tecnologias e Linguagens
+
+<div align="center">
+  <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+  <img align="center" alt="PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
+  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
+  <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  <img align="center" alt="Cplusplus" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
+</div>
+
+<br>
+
+### Sobre Mim
+
+* 🎓 Atualmente, sou estudante do Curso Técnico Integrado em Informática na SATC - Associação Beneficente da Indústria Carbonífera de Santa Catarina.
+* 🌱 Estou em constante aprendizado, dedicando-me ao estudo de React Native, React.js, Java, Unity3D e PHP.
+* 🤝 Tenho grande interesse em colaborar em projetos que promovam o crescimento profissional e a inovação tecnológica.
+* ❓ Acredito na importância da troca de conhecimento e estou sempre aberto a receber auxílio e orientação.
+* 💬 Sinta-se à vontade para entrar em contato com quaisquer dúvidas ou sugestões.
+* 📫 Para contato profissional, meu e-mail é: pedrohnurbano@gmail.com.
+* 🙋‍♂️ Pronomes: ele/dele.
+* 💡 Curiosidade: Almejo, futuramente, ingressar na carreira jurídica como Juiz de Direito.
