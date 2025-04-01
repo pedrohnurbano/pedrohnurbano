@@ -1,8 +1,8 @@
-## Apresentação
+## Prazer, chamo-me Pedro Henrique.
 
 Prezado(a)s,
 
-É com grande satisfação que me apresento. Meu nome é Pedro Henrique.
+É com grande satisfação que me apresento.
 
 <br>
 
