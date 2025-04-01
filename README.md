@@ -14,8 +14,8 @@
 <br>
 → Um pouco sobre mim:
 
-- 🔭 Estou atualmente cursando o 3º Ano do Ensino Médio;
-- 🌱 Estou atualmente a aprender IoT, Tkinter, MySQL, Python, JavaScript;
+- 🔭 Estou atualmente cursando o Curso Técnico Integrado em Informática na SATC - Associação Beneficente da Indústria Carbonífera de Santa Catarina;
+- 🌱 Estou atualmente a aprender React Native, React.js, Java, Unity3D, PHP;
 - 🚀 Estou a procurar colaborar em projetos que agregam conhecimento e inovação;
 - 🤔 Estou à procura de ajuda com tudo;
 - 💬 Perguntar-me sobre qualquer coisa;
