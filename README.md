@@ -34,5 +34,4 @@ Prezado(a)s,
 * ❓ Acredito na importância da troca de conhecimento e estou sempre aberto a receber auxílio e orientação.
 * 💬 Sinta-se à vontade para entrar em contato com quaisquer dúvidas ou sugestões.
 * 📫 Para contato profissional, meu e-mail é: pedrohnurbano@gmail.com.
-* 🙋‍♂️ Pronomes: ele/dele.
 * 💡 Curiosidade: Almejo, futuramente, ingressar na carreira jurídica como Juiz de Direito.
