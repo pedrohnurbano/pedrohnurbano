@@ -12,16 +12,16 @@ Prezado(a)s,
 </div>
 <br>
 <div align="center">
-  <img src="https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396" alt="Java"/>
-  <img src="https://img.shields.io/badge/-PHP-333333?style=flat&logo=PHP&logoColor=777BB4" alt="PHP"/>
-  <img src="https://img.shields.io/badge/-Python-333333?style=flat&logo=Python&logoColor=3776AB" alt="Python"/>
-  <img src="https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql" alt="MySQL"/>
-  <img src="https://img.shields.io/badge/-React-333333?style=flat&logo=react" alt="React"/>
-  <img src="https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6" alt="CSS"/>
   <img src="https://img.shields.io/badge/-C%23-333333?style=flat&logo=C-Sharp&logoColor=239120" alt="C#"/>
   <img src="https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C" alt="C++"/>
+  <img src="https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6" alt="CSS"/>
+  <img src="https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396" alt="Java"/>
+  <img src="https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql" alt="MySQL"/>
+  <img src="https://img.shields.io/badge/-PHP-333333?style=flat&logo=PHP&logoColor=777BB4" alt="PHP"/>
+  <img src="https://img.shields.io/badge/-Python-333333?style=flat&logo=Python&logoColor=3776AB" alt="Python"/>
+  <img src="https://img.shields.io/badge/-React-333333?style=flat&logo=react" alt="React"/>
 </div>
 
 <br>
