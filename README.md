@@ -36,5 +36,5 @@ Prezado(a)s,
 ---
 
 <div align="center">
-  <i>Copyright © 2025 - CC - Coffee's Code - Todos os direitos reservados</i>
+  <i>Copyright © 2025 - Pedro Henrique do Nascimento Urbano - Todos os direitos reservados</i>
 </div>
