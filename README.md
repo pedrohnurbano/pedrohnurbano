@@ -33,4 +33,4 @@ Prezado(a)s,
 * 🤝 Tenho grande interesse em colaborar em projetos que promovam o crescimento profissional e a inovação tecnológica.
 * ❓ Acredito na importância da troca de conhecimento e estou sempre aberto a receber auxílio e orientação.
 * 💬 Sinta-se à vontade para entrar em contato com quaisquer dúvidas ou sugestões.
-* 📫 Para contato profissional,## <h1><b>Prazer, chamo-me Pedro Henrique.</b></h1>
+* 📫 Para contato profissional,
