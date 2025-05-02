@@ -26,11 +26,9 @@ Prezado(a)s,
 
 <br>
 
-### Sobre Mim
+### Informações Pessoais
 
-* 🎓 Atualmente, sou estudante do Curso Técnico Integrado em Informática na SATC - Associação Beneficente da Indústria Carbonífera de Santa Catarina.
-* 🌱 Estou em constante aprendizado, dedicando-me ao estudo de React Native, React.js, Java, Unity3D e PHP.
-* 🤝 Tenho grande interesse em colaborar em projetos que promovam o crescimento profissional e a inovação tecnológica.
-* ❓ Acredito na importância da troca de conhecimento e estou sempre aberto a receber auxílio e orientação.
-* 💬 Sinta-se à vontade para entrar em contato com quaisquer dúvidas ou sugestões.
-* 📫 Para contato profissional,
+* 🖥️ ⟫ Atualmente, sou estudante, 18, do Curso Técnico Integrado em Informática na SATC - Associação Beneficente da Indústria Carbonífera de Santa Catarina.
+* 🧠 ⟫ Acredito na importância da troca de conhecimento e estou sempre aberto a receber auxílio e orientação.
+* 📲 ⟫ Sinta-se à vontade para entrar em contato com quaisquer dúvidas ou sugestões.
+* 📩 ⟫ Para contato profissional: pedrohnurbano@gmail.com
