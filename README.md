@@ -32,3 +32,9 @@ Prezado(a)s,
 * 🧠 ⟫ Acredito na importância da troca de conhecimento e estou sempre aberto a receber auxílio e orientação.
 * 📲 ⟫ Sinta-se à vontade para entrar em contato com quaisquer dúvidas ou sugestões.
 * 📩 ⟫ Para contato profissional: pedrohnurbano@gmail.com
+
+---
+
+<div align="center">
+  <i>Copyright © 2025 - CC - Coffee's Code - Todos os direitos reservados</i>
+</div>
