@@ -2,6 +2,7 @@
 
 Prezado(a)s,
 <br>
+⚠️ REPOSITÓRIOS EM MANUTENÇÃO! ⚠️
 É com grande satisfação que me apresento.
 
 ### Visão Geral Tecnológica
