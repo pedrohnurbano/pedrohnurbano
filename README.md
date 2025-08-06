@@ -1,6 +1,4 @@
-## <h1><b>⚠️ REPOSITÓRIOS EM MANUTENÇÃO! ⚠️</b></h1>
-
-<!--## <h1><b>Prazer, chamo-me Pedro Henrique.</b></h1>-->
+<h1><b>Prazer, chamo-me Pedro Henrique.</b></h1>
 
 Prezado(a)s,
 <br>
