@@ -28,7 +28,7 @@ Prezado(a)s,
 
 ### Informações Pessoais
 
-* 🖥️ ⟫ Atualmente, sou estudante, 18, do Curso Técnico Integrado em Informática na SATC - Associação Beneficente da Indústria Carbonífera de Santa Catarina.
+* 🖥️ ⟫ Atualmente, sou acadêmico, 18, formado no Curso Técnico Integrado em Informática na SATC - Associação Beneficente da Indústria Carbonífera de Santa Catarina.
 * 🧠 ⟫ Acredito na importância da troca de conhecimento e estou sempre aberto a receber auxílio e orientação.
 * 📲 ⟫ Sinta-se à vontade para entrar em contato com quaisquer dúvidas ou sugestões.
 * 📩 ⟫ Para contato profissional: pedrohnurbano@gmail.com
